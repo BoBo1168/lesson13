@@ -21,3 +21,9 @@ background-image: url(./Background.png);
     border-radius: 10px;
     cursor: pointer;
 }
+.q1{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
