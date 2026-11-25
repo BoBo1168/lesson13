@@ -1,0 +1,23 @@
+body{
+background-image: url(./Background.png);
+}
+.full{
+    max-width: 1173px;
+    margin: auto;
+    font-family: Poppins;
+    height: 84px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button1{
+    width: 160px;
+    height: 48px;
+    background-color: #608AF5;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
