@@ -20,6 +20,7 @@ body{
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    border: none;
 }
 .q1{
     margin-top: 60px;
@@ -40,4 +41,25 @@ body{
 .q2{
     display: flex;
     justify-content: space-between;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+}
+.q3{
+    background-image: url(Ellipse\ 6.png);
+    background-repeat: no-repeat;
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.25);
+    width: 347px;
+    height: 266px;
+    border-radius: 10px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
+}
+.qq3{
+    background-image: url(./Ellipse\ 6\ \(1\).png);
+}
+.zq3{
+    background-image: url(./Ellipse\ 6\ \(2\).png);
 }
