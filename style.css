@@ -61,7 +61,44 @@
 .zq3{
     background-image: url(./Ellipse\ 6\ \(2\).png);
 }
-.footer{
-    max-width: 1173px;
-    margin: auto;
+.t43 {
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    margin-bottom: 80px;
+}
+
+.t44 {
+    width: 130px;
+    text-align: center;
+}
+
+.t45 {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 15px auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.t46 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 120px;
+    height: 120px;
+    z-index: 1;
+}
+
+.t47 {
+    width: 55px;
+    position: relative;
+    z-index: 2;
+}
+
+.t48 {
+    font-size: 20px;
+    color: #14274c;
 }
