@@ -1,13 +1,11 @@
-body{
-    background-image: url(./Background.png);
-}
 .full{
+    background-image: url(./Background.png);
     max-width: 1173px;
     margin: auto;
     font-family: Poppins;
-    height: 84px;
 }
 .header{
+    height: 84px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -62,4 +60,8 @@ body{
 }
 .zq3{
     background-image: url(./Ellipse\ 6\ \(2\).png);
+}
+.footer{
+    max-width: 1173px;
+    margin: auto;
 }
